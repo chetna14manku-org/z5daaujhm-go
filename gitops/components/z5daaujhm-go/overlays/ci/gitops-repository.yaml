@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z5daaujhm-go-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/z5daaujhm-go-gitops
